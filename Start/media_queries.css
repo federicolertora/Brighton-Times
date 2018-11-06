@@ -1,0 +1,21 @@
+/* Media queries added */
+
+@media screen and (min-width: 525px) {
+
+  .top-news {
+    width: 50%;
+    order: 0;
+  }
+  .scores {
+    width: 50%;
+    order: 1;
+  }
+  .weather {
+    width: 50%;
+    order: 3;
+  }
+  .recent-news {
+    width: 50%;
+    order: 2;
+  }
+}
